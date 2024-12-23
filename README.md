@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jyoti Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coading" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*7Q3yvSIv_t0ioJ-Z.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetamkumarchaurasiya&label=Profile%20views&color=0e75b6&style=flat" alt="preetamkumarchaurasiya" /> </p>
 
 - 💬 Ask me about **My name is Jyoti Patel and I work as a software engineer and web developer. I have experience in a variety of programming languages and web development frameworks, and I am always keen to learn new technologies. I am a quick learner and have a good eye for detail, which makes me well-suited for these roles. I am also a strong team player and have good communication skills, which are essential for working in these fields**
 
