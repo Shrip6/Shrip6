@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jyoti Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 💬 Ask me about **My name is Jyoti Patel and I work as a software engineer and web developer. I have experience in a variety of programming languages and web development frameworks, and I am always keen to learn new technologies. I am a quick learner and have a good eye for detail, which makes me well-suited for these roles. I am also a strong team player and have good communication skills, which are essential for working in these fields**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
